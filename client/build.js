@@ -28,6 +28,7 @@ const external_js = [
     'nprogress',
     'superagent',
     'underscore',
+    '@ruffle-rs/ruffle',
 ];
 
 const app_manifest = {
